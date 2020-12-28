@@ -1,0 +1,2 @@
+# covid_fighter
+game
